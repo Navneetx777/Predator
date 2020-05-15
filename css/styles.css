@@ -253,6 +253,6 @@ p {
 @media (max-width: 991px) and (min-width: 840px) {
   .predator500 {
     position: relative;
-    left: 300px;
+    left: 100px;
   }
 }
