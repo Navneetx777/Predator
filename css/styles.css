@@ -250,9 +250,9 @@ p {
   }
 }
 
-@media (max-width: 991px) and (min-width: 840px) {
+/*@media (max-width: 991px) and (min-width: 840px) {
   .predator500 {
     position: relative;
     left: 1000px;
   }
-}
+}*/
